@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.ball1{
+    position: relative;
+    left: 300px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 562.5%;
+    margin:50px auto 0 auto;
+    font-family: 'Yellowtail', cursive;
+    color: #5F6769;
+    text-align:center;
+}
+h2{
+    color: #5F6769;
+}
+
+.intro{
+    background-color: #F6E7D8;
+    position: relative;
+    left: 120px;
+    font-family: 'Boogaloo', cursive;
+    text-align: center;
+    width: 80%;
+    border-radius: 20px;
+}
+hr{
+    border-top: 2px dotted black;
+    width:50%;
+}
+.top-img{
+    position: relative ;
+    left: 700px;
+    border-radius: 20px;
+}
+.top-img1{
+        position: relative ;
+        left: 200px;
+        border-radius: 20px;
+}
+.middle{
+    background-color: #90E0EF;
+    position: relative;
+    left: 350px;
+    width: 50%;
+    text-align: center;
+    font-family: 'Boogaloo', cursive;
+    border-radius: 15px;
+}
+.naruto{
+    background-color: #F47340;
+    text-align: center;
+   position: relative;
+   font-size: large;
+   font-family: 'Boogaloo', cursive;
+   width:40%;
+   position: relative;
+   left: 100px;
+   border-radius: 10px;
+}
+.narutopic{
+    padding-top: 10px;
+    width: 450px;
+    height: 350px;
+    float: top;
+}
+.death{
+    background-color: black;
+    text-align: center;
+   position: relative;
+   font-size: large;
+   font-family: 'Boogaloo', cursive;
+   width:40%;
+   position: relative;
+   bottom: 450px;
+   left: 700px;
+   margin-top: 10px;
+   border-radius: 10px;
+}
+.deathnote{
+    padding-top: 10px;
+    width: 400px;
+    height: 300px;
+    float: top;
+}
+.code{
+    background-color: #FFADF0;
+    text-align: center;
+   position: relative;
+   font-size: large;
+   font-family: 'Boogaloo', cursive;
+   width:40%;
+   position: relative;
+   left: 400px;
+   margin-top: 10px;
+   border-radius: 10px;
+   position: relative;
+   bottom: 400px;
+}
+.codepic{
+    padding-top: 10px;
+    width: 400px;
+    height: 300px;
+    float: top;
+}
+.fun{
+    position: relative;
+    left: 450px;
+    bottom: 350px;
+    border-radius: 10px;
+}
